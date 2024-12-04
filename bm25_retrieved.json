@@ -1,0 +1,164 @@
+[
+    [
+        {
+            "doc_id": 6,
+            "doc": "Apple Banana Mango",
+            "score": 1.793
+        },
+        {
+            "doc_id": 4,
+            "doc": "Apple Banana Mango",
+            "score": 1.793
+        },
+        {
+            "doc_id": 1,
+            "doc": "Banana Mango Banana",
+            "score": 1.084
+        },
+        {
+            "doc_id": 9,
+            "doc": "Apple Banana Apple",
+            "score": 0.967
+        },
+        {
+            "doc_id": 0,
+            "doc": "Apple Apple Banana",
+            "score": 0.967
+        }
+    ],
+    [
+        {
+            "doc_id": 7,
+            "doc": "Grapes Grapes Grapes",
+            "score": 2.62
+        },
+        {
+            "doc_id": 3,
+            "doc": "Grapes Grapes Strawberries Grapes",
+            "score": 2.452
+        },
+        {
+            "doc_id": 11,
+            "doc": "Blueberries Strawberries Cherry",
+            "score": 0.0
+        },
+        {
+            "doc_id": 10,
+            "doc": "Cherry Cherry Mango Cherry",
+            "score": 0.0
+        },
+        {
+            "doc_id": 9,
+            "doc": "Apple Banana Apple",
+            "score": 0.0
+        }
+    ],
+    [
+        {
+            "doc_id": 1,
+            "doc": "Banana Mango Banana",
+            "score": 2.285
+        },
+        {
+            "doc_id": 6,
+            "doc": "Apple Banana Mango",
+            "score": 1.963
+        },
+        {
+            "doc_id": 4,
+            "doc": "Apple Banana Mango",
+            "score": 1.963
+        },
+        {
+            "doc_id": 10,
+            "doc": "Cherry Cherry Mango Cherry",
+            "score": 0.958
+        },
+        {
+            "doc_id": 9,
+            "doc": "Apple Banana Apple",
+            "score": 0.879
+        }
+    ],
+    [
+        {
+            "doc_id": 10,
+            "doc": "Cherry Cherry Mango Cherry",
+            "score": 1.952
+        },
+        {
+            "doc_id": 2,
+            "doc": "Cherry Cherry Strawberries",
+            "score": 1.831
+        },
+        {
+            "doc_id": 11,
+            "doc": "Blueberries Strawberries Cherry",
+            "score": 1.341
+        },
+        {
+            "doc_id": 9,
+            "doc": "Apple Banana Apple",
+            "score": 0.0
+        },
+        {
+            "doc_id": 8,
+            "doc": "Blueberries Apple Strawberries",
+            "score": 0.0
+        }
+    ],
+    [
+        {
+            "doc_id": 9,
+            "doc": "Apple Banana Apple",
+            "score": 0.967
+        },
+        {
+            "doc_id": 0,
+            "doc": "Apple Apple Banana",
+            "score": 0.967
+        },
+        {
+            "doc_id": 8,
+            "doc": "Blueberries Apple Strawberries",
+            "score": 0.708
+        },
+        {
+            "doc_id": 6,
+            "doc": "Apple Banana Mango",
+            "score": 0.708
+        },
+        {
+            "doc_id": 5,
+            "doc": "Blueberries Strawberries Apple",
+            "score": 0.708
+        }
+    ],
+    [
+        {
+            "doc_id": 11,
+            "doc": "Blueberries Strawberries Cherry",
+            "score": 2.22
+        },
+        {
+            "doc_id": 8,
+            "doc": "Blueberries Apple Strawberries",
+            "score": 2.22
+        },
+        {
+            "doc_id": 5,
+            "doc": "Blueberries Strawberries Apple",
+            "score": 2.22
+        },
+        {
+            "doc_id": 2,
+            "doc": "Cherry Cherry Strawberries",
+            "score": 0.879
+        },
+        {
+            "doc_id": 3,
+            "doc": "Grapes Grapes Strawberries Grapes",
+            "score": 0.777
+        }
+    ]
+]
